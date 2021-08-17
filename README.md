@@ -40,7 +40,7 @@ Com a separação entre tabela vendas e usuários, temos diferentes regras de ne
 
 ### 📆 Entrega
 
-Esse desafio deve ser entregue a partir do github, envie o link do repositório que você fez suas alterações.
+Esse desafio deve ser entregue a partir do github, enviar o link do repositório que você fez suas alterações.
 
 ### Licença
 <a href="https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT#:~:text=A%20licen%C3%A7a%20MIT%2C%20tamb%C3%A9m%20chamada,livre%20quanto%20em%20software%20propriet%C3%A1rio.">🔗 MIT</a>
