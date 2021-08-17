@@ -1,5 +1,5 @@
 <h2 align="center">
-    <a href="https://nodejs.org/en/">🔗 Desafio: Node.js | Postgres </a>
+    🔗 Desafio: Node.js | Postgres
 </h2>
 <p align="center">🚀 Construindo uma aplicação backend com rotas</p>
  
@@ -44,3 +44,32 @@ Esse desafio deve ser entregue a partir do github, enviar o link do repositório
 
 ### Licença
 <a href="https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT#:~:text=A%20licen%C3%A7a%20MIT%2C%20tamb%C3%A9m%20chamada,livre%20quanto%20em%20software%20propriet%C3%A1rio.">🔗 MIT</a>
+<h1 align="center">
+    <figure>
+  <img src="https://github.com/alexandretrieste/image_for_Readme/blob/main/Image%20for%20github/1.png" alt="Minha Figura">
+  <figcaption>Insomnia POST</figcaption>
+</figure>
+	
+<h1 align="center">
+<figure>
+  <img src="https://github.com/alexandretrieste/image_for_Readme/blob/main/Image%20for%20github/2.png" alt="Minha Figura">
+  <figcaption>Insomnia GET</figcaption>
+</figure>
+
+<h1 align="center">
+<figure>
+  <img src="https://github.com/alexandretrieste/image_for_Readme/blob/main/Image%20for%20github/3.png" alt="Minha Figura">
+  <figcaption>DBvear</figcaption>
+</figure>
+	
+<h1 align="center">
+<figure>
+  <img src="https://github.com/alexandretrieste/image_for_Readme/blob/main/Image%20for%20github/4.png" alt="Minha Figura">
+  <figcaption>Docker</figcaption>
+</figure>
+	
+<h1 align="center">
+<figure>
+  <img src="https://github.com/alexandretrieste/image_for_Readme/blob/main/Image%20for%20github/5.png" alt="Minha Figura">
+  <figcaption>VSCODE</figcaption>
+</figure>
