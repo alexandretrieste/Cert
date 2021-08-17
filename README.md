@@ -1,5 +1,3 @@
-![api](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Fbr%2Ficone-gratis%2Fnodejs_919825&psig=AOvVaw2y0UMYnRMcUZjEk6pQVWRt&ust=1629287143850000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjauN39t_ICFQAAAAAdAAAAABAD)
-
 <h2 align="center">
     <a href="https://nodejs.org/en/">🔗 Desafio: Node.js | Postgres </a>
 </h2>
